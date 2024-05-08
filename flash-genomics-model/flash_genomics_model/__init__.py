@@ -1,1 +1,0 @@
-from flash_genomics_model.flash_genomics_model import FlashGenomicsModel
